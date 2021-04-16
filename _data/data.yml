@@ -49,7 +49,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm in my third year of studies towards a bachelor's in Information Technology .
+      I'm in my third year of studies towards a bachelor's in Information Technology.
          
 education:
     - degree: Ionian University, Department of Informatics
@@ -69,6 +69,7 @@ experiences:
       time: 
       company: 
       details: |
+       I have no relevant work experience in this field.
        
     - role: 
       time: 
